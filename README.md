@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ChiragS007
 - 👀 I’m interested in Developing backend Spring Boot Api's and ETL on the side.
-- 🌱 I’m currently working on a Spring Boot Project
+- 🌱 I’m currently working on a Spring Boot Project and learing more and more dev tools
 - 📫 How to reach me Instagram, Twitter, Reddit, Whatsapp, Telegram
 
 <!---
