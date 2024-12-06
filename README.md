@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @ChiragS007
-- 👀 I’m interested in Programming and Game Development
-- 🌱 I’m currently learning Python and DSA
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in Developing backend Spring Boot Api's and ETL on the side.
+- 🌱 I’m currently working on a Spring Boot Project
 - 📫 How to reach me Instagram, Twitter, Reddit, Whatsapp, Telegram
 
 <!---
